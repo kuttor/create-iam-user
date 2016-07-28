@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-create-iam-user - CLI tool to easily create IAM user and format on-boarding email template
+create-iam-user - CLI tool to easily create IAM user and formats data to screen.
 
 Usage:
   create-iam-user -u <username> -a <account>
